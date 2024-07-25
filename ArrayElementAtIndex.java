@@ -14,6 +14,6 @@ public class ArrayElementAtIndex {
             System.out.println("Invalid index! Please enter a valid index within the range of the array.");
         }
         
-        scanner.close();
+        
     }
 }
